@@ -1,0 +1,15 @@
+/home/tatiana/Рабочий стол/gig/repo/Examples/Ex002/bin/Debug/net6.0/Ex002
+/home/tatiana/Рабочий стол/gig/repo/Examples/Ex002/bin/Debug/net6.0/Ex002.deps.json
+/home/tatiana/Рабочий стол/gig/repo/Examples/Ex002/bin/Debug/net6.0/Ex002.runtimeconfig.json
+/home/tatiana/Рабочий стол/gig/repo/Examples/Ex002/bin/Debug/net6.0/Ex002.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Ex002/bin/Debug/net6.0/ref/Ex002.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Ex002/bin/Debug/net6.0/Ex002.pdb
+/home/tatiana/Рабочий стол/gig/repo/Examples/Ex002/obj/Debug/net6.0/Ex002.csproj.AssemblyReference.cache
+/home/tatiana/Рабочий стол/gig/repo/Examples/Ex002/obj/Debug/net6.0/Ex002.GeneratedMSBuildEditorConfig.editorconfig
+/home/tatiana/Рабочий стол/gig/repo/Examples/Ex002/obj/Debug/net6.0/Ex002.AssemblyInfoInputs.cache
+/home/tatiana/Рабочий стол/gig/repo/Examples/Ex002/obj/Debug/net6.0/Ex002.AssemblyInfo.cs
+/home/tatiana/Рабочий стол/gig/repo/Examples/Ex002/obj/Debug/net6.0/Ex002.csproj.CoreCompileInputs.cache
+/home/tatiana/Рабочий стол/gig/repo/Examples/Ex002/obj/Debug/net6.0/Ex002.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Ex002/obj/Debug/net6.0/ref/Ex002.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Ex002/obj/Debug/net6.0/Ex002.pdb
+/home/tatiana/Рабочий стол/gig/repo/Examples/Ex002/obj/Debug/net6.0/Ex002.genruntimeconfig.cache
