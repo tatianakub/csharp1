@@ -1,0 +1,15 @@
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example004_Sum/bin/Debug/net6.0/Example004_Sum
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example004_Sum/bin/Debug/net6.0/Example004_Sum.deps.json
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example004_Sum/bin/Debug/net6.0/Example004_Sum.runtimeconfig.json
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example004_Sum/bin/Debug/net6.0/Example004_Sum.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example004_Sum/bin/Debug/net6.0/ref/Example004_Sum.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example004_Sum/bin/Debug/net6.0/Example004_Sum.pdb
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example004_Sum/obj/Debug/net6.0/Example004_Sum.csproj.AssemblyReference.cache
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example004_Sum/obj/Debug/net6.0/Example004_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example004_Sum/obj/Debug/net6.0/Example004_Sum.AssemblyInfoInputs.cache
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example004_Sum/obj/Debug/net6.0/Example004_Sum.AssemblyInfo.cs
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example004_Sum/obj/Debug/net6.0/Example004_Sum.csproj.CoreCompileInputs.cache
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example004_Sum/obj/Debug/net6.0/Example004_Sum.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example004_Sum/obj/Debug/net6.0/ref/Example004_Sum.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example004_Sum/obj/Debug/net6.0/Example004_Sum.pdb
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example004_Sum/obj/Debug/net6.0/Example004_Sum.genruntimeconfig.cache
