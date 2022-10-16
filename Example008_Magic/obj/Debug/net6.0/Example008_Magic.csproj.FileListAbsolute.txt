@@ -1,0 +1,15 @@
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example008_Magic/bin/Debug/net6.0/Example008_Magic
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example008_Magic/bin/Debug/net6.0/Example008_Magic.deps.json
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example008_Magic/bin/Debug/net6.0/Example008_Magic.runtimeconfig.json
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example008_Magic/bin/Debug/net6.0/Example008_Magic.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example008_Magic/bin/Debug/net6.0/ref/Example008_Magic.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example008_Magic/bin/Debug/net6.0/Example008_Magic.pdb
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example008_Magic/obj/Debug/net6.0/Example008_Magic.csproj.AssemblyReference.cache
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example008_Magic/obj/Debug/net6.0/Example008_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example008_Magic/obj/Debug/net6.0/Example008_Magic.AssemblyInfoInputs.cache
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example008_Magic/obj/Debug/net6.0/Example008_Magic.AssemblyInfo.cs
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example008_Magic/obj/Debug/net6.0/Example008_Magic.csproj.CoreCompileInputs.cache
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example008_Magic/obj/Debug/net6.0/Example008_Magic.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example008_Magic/obj/Debug/net6.0/ref/Example008_Magic.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example008_Magic/obj/Debug/net6.0/Example008_Magic.pdb
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example008_Magic/obj/Debug/net6.0/Example008_Magic.genruntimeconfig.cache
