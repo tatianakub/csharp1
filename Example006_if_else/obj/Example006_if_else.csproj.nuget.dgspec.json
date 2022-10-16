@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/Example006_if_else.csproj": {}
+  },
+  "projects": {
+    "/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/Example006_if_else.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/Example006_if_else.csproj",
+        "projectName": "Example006_if_else",
+        "projectPath": "/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/Example006_if_else.csproj",
+        "packagesPath": "/home/tatiana/.nuget/packages/",
+        "outputPath": "/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tatiana/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

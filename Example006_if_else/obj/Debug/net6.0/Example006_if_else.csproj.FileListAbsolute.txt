@@ -1,0 +1,15 @@
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/bin/Debug/net6.0/Example006_if_else
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/bin/Debug/net6.0/Example006_if_else.deps.json
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/bin/Debug/net6.0/Example006_if_else.runtimeconfig.json
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/bin/Debug/net6.0/Example006_if_else.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/bin/Debug/net6.0/ref/Example006_if_else.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/bin/Debug/net6.0/Example006_if_else.pdb
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/obj/Debug/net6.0/Example006_if_else.csproj.AssemblyReference.cache
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/obj/Debug/net6.0/Example006_if_else.GeneratedMSBuildEditorConfig.editorconfig
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/obj/Debug/net6.0/Example006_if_else.AssemblyInfoInputs.cache
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/obj/Debug/net6.0/Example006_if_else.AssemblyInfo.cs
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/obj/Debug/net6.0/Example006_if_else.csproj.CoreCompileInputs.cache
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/obj/Debug/net6.0/Example006_if_else.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/obj/Debug/net6.0/ref/Example006_if_else.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/obj/Debug/net6.0/Example006_if_else.pdb
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example006_if_else/obj/Debug/net6.0/Example006_if_else.genruntimeconfig.cache
