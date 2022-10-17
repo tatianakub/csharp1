@@ -1,0 +1,15 @@
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example009_IntroMethod/bin/Debug/net6.0/Example009_IntroMethod
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example009_IntroMethod/bin/Debug/net6.0/Example009_IntroMethod.deps.json
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example009_IntroMethod/bin/Debug/net6.0/Example009_IntroMethod.runtimeconfig.json
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example009_IntroMethod/bin/Debug/net6.0/Example009_IntroMethod.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example009_IntroMethod/bin/Debug/net6.0/ref/Example009_IntroMethod.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example009_IntroMethod/bin/Debug/net6.0/Example009_IntroMethod.pdb
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example009_IntroMethod/obj/Debug/net6.0/Example009_IntroMethod.csproj.AssemblyReference.cache
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example009_IntroMethod/obj/Debug/net6.0/Example009_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example009_IntroMethod/obj/Debug/net6.0/Example009_IntroMethod.AssemblyInfoInputs.cache
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example009_IntroMethod/obj/Debug/net6.0/Example009_IntroMethod.AssemblyInfo.cs
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example009_IntroMethod/obj/Debug/net6.0/Example009_IntroMethod.csproj.CoreCompileInputs.cache
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example009_IntroMethod/obj/Debug/net6.0/Example009_IntroMethod.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example009_IntroMethod/obj/Debug/net6.0/ref/Example009_IntroMethod.dll
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example009_IntroMethod/obj/Debug/net6.0/Example009_IntroMethod.pdb
+/home/tatiana/Рабочий стол/gig/repo/Examples/Example009_IntroMethod/obj/Debug/net6.0/Example009_IntroMethod.genruntimeconfig.cache
