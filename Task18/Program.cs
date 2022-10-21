@@ -14,5 +14,5 @@ string Quarter(string quarterXY)
 }
 
  string xy = Quarter(quarter);
-Console.Write($"Диапазон координат для четверти {quarter}: "); 
+Console.WriteLine($"Диапазон координат для четверти {quarter}: "); 
 Console.WriteLine(xy);
