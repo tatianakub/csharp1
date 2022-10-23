@@ -10,19 +10,12 @@
 // 23432 -> да
 
 Console.WriteLine("Введите целое пятизначное число ");
-string number = Convert.ToString(Console.ReadLine()); 
+int number = Convert.ToInt32(Console.ReadLine()); 
 
-//char[] arr = number.ToString().ToCharArray(); //задали массив
+int num1 = number / 10000;
+int num2 = number / 1000 % 10;
+int num4 = number % 100 / 10;
+int num5 = number % 10;
 
-static bool IsPalindrome(string number)
-{
-    for (int i = 0; i < number.Length / 2; ++i)
-        if (number[i] != number[number.Length - 1 - i]) return false;
-    return true;
-}
-
-if (IsPalindrome(number) = true)
-{
-    Console.WriteLine("да");
-}
-else Console.WriteLine("нет");
+if (num1 == num5 && num2 == num4) Console.WriteLine("да ");
+else Console.WriteLine("нет ");
