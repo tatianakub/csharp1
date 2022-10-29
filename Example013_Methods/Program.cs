@@ -33,18 +33,31 @@ int year = Method3();
 Console.WriteLine(year);
 
 //4 вид: методы, которые что-то принимают и что-то возвращают
+
+//string Method4(int count, string text)
+// {
+//    int i = 0;
+//    string result = String.Empty;
+
+//    while (i < count)
+//    {
+//       result = result + text;
+//       i++;
+//    }
+//    return result;
+// }
+//либо с циклом фор, он всё собирает в себе, к примеру:
+//for(int i =0; i<10; i++) 
+//Console.WriteLine(i);
+
 string Method4(int count, string text)
 {
-   int i = 0;
    string result = String.Empty;
-
-   while (i < count)
+   for(int i = 0; i < count; i++)
    {
-      result = result + text;
-      i++;
+      result = result + text;   
    }
    return result;
 }
-
 string res = Method4(10, "abc");
 Console.WriteLine(res);
