@@ -60,4 +60,19 @@ string Method4(int count, string text)
    return result;
 }
 string res = Method4(10, "abc");
-Console.WriteLine(res);
+//Console.WriteLine(res);
+
+
+
+//Задача вывести таблицу умножения способом цикл в цикле:
+
+for (int i = 2; i <= 10; i++)
+{
+    for (int j = 2; j <= 10; j++)
+    {
+        Console.WriteLine($"{j}*{i} = {i*j}");
+    }
+    Console.WriteLine();
+}
+
+
