@@ -8,7 +8,7 @@ int num = Convert.ToInt32(Console.ReadLine());
 
 int SumNumbers(int number) //метод
 {
-    int sum = default;
+    int sum = default; // дефолт показывает, что значение не определено
     for (int i = 1; i <= number; i++)
     {
         sum = sum + i;
