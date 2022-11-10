@@ -4,9 +4,9 @@
 Console.WriteLine("Введите количество элементов: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-int[] NameArray(int number)
+int[] NameArray(int size)
 {
-    int[] array = new int[number];
+    int[] array = new int[size];
     Random rnd = new Random();
     for (int i = 0; i < array.Length; i++)
     {
@@ -17,11 +17,13 @@ int[] NameArray(int number)
 
 void PrintArray(int[] array)
 {
+    Console.Write("[");
     for (int i = 0; i < array.Length; i++)
     {
-        Console.Write(array[i]+",");
-        if (i>array.Length-1) Console.WriteLine(",");
+        Console.Write(array[i]);
+        if (i>array.Length-1) Console.Write(",");
     }
+    Console.Write("]");
 }
 
 int[] nameArray = NameArray(num);
