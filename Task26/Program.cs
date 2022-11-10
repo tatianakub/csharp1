@@ -11,10 +11,10 @@ int SumDigit(int numDigit)
     int count = 0;
     while (numDigit > 0)
     {
-        count++;
         numDigit = numDigit / 10;
+        count++;
     }
-    return count;
+    return count > 0 ? count : 1;
 }
 int sumDigit = SumDigit(num);
 Console.WriteLine($"Количество цифр в числе = {sumDigit}");
