@@ -10,7 +10,7 @@ int[] NameArray(int size)
     Random rnd = new Random();
     for (int i = 0; i < array.Length; i++)
     {
-        array[i] = new rnd.Next(0, 2);
+        array[i] = rnd.Next(0, 2);
     }
     return array;
 }
@@ -21,10 +21,10 @@ void PrintArray(int[] array)
     for (int i = 0; i < array.Length; i++)
     {
         Console.Write(array[i]);
-        if (i>array.Length-1) Console.Write(",");
+       if (i>array.Length -1);
+        Console.Write(",");
     }
     Console.Write("]");
 }
-
 int[] nameArray = NameArray(num);
 PrintArray(nameArray);
