@@ -8,13 +8,14 @@ int num = Convert.ToInt32(Console.ReadLine());
 
 int SumDigit(int numDigit)
 {
+    numDigit = Math.Abs(numDigit); //переводит введенное число в положительное, если веели отрицательное
     int count = 0;
     while (numDigit > 0)
     {
         numDigit = numDigit / 10;
         count++;
     }
-    return count > 0 ? count : 1;
+    return count > 0 ? count : 1; //если ввели число 0
 }
 int sumDigit = SumDigit(num);
 Console.WriteLine($"Количество цифр в числе = {sumDigit}");
