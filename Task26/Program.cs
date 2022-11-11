@@ -8,7 +8,7 @@ int num = Convert.ToInt32(Console.ReadLine());
 
 int SumDigit(int numDigit)
 {
-    numDigit = Math.Abs(numDigit); //переводит введенное число в положительное, если веели отрицательное
+    numDigit = Math.Abs(numDigit); //переводит введенное число в положительное, если ввели отрицательное
     int count = 0;
     while (numDigit > 0)
     {
