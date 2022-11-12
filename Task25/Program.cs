@@ -9,10 +9,12 @@ int x = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Введите второе число: ");
 int stepen = Convert.ToInt32(Console.ReadLine());
+int sum = 1;
 
-Math.Pow(x,stepen);
 
-double res = Math.Pow(x,stepen);
-Convert.ToInt32(Math.Pow(x,stepen));
+for (int i = 0; i < stepen; i++)
+{
+    sum = sum * x;
+}
 
-Console.WriteLine($"{x} в степени {stepen} = {res}");
+Console.WriteLine($"{x} в степени {stepen} = {sum}");
