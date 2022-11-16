@@ -1,16 +1,16 @@
 ﻿// Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным эелементами массива
 // [3.5, 7.1, 22.9, 2.3, 78.5] -> 76.2
 
-int[] CreateArrayRndInt(int size, int min, int max) 
-{
-    int[] array = new int[size];
-    Random rnd = new Random();
-    for (int i = 0; i < size; i++)
-    {
-        array[i] = rnd.Next(min, max + 1);
-    }
-    return array;
-}
+// int[] CreateArrayRndInt(int size, int min, int max) 
+// {
+//     int[] array = new int[size];
+//     Random rnd = new Random();
+//     for (int i = 0; i < size; i++)
+//     {
+//         array[i] = rnd.Next(min, max + 1);
+//     }
+//     return array;
+// }
 
 double[] CreateArrayDouble(int size, int min, int max) 
 {
@@ -24,7 +24,7 @@ double[] CreateArrayDouble(int size, int min, int max)
     return array;
 }
 
-void PrintArray(int[] array)
+void PrintArray(double[] array)
 {
     Console.Write("[");
     for (int i = 0; i < array.Length; i++)
@@ -34,3 +34,19 @@ void PrintArray(int[] array)
     }
     Console.WriteLine("]");
 }
+
+double[] arr = CreateArrayDouble(5, 10, 100);
+
+PrintArray(arr);
+
+ double imin = 0;
+ double imax = 0;
+    
+    for (int i = 0; i < arr.Length; i++) {
+        if (arr[i] > arr[imax])
+            imax = i;
+        if (arr[i] < arr[imin])
+            imin = i;
+    }
+    Console.WriteLine("min : array[" + imin + "] = " + arr[imin]);
+    Console.WriteLine("max : array[" + imax + "] = " + arr[imax]);
