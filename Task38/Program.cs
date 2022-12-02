@@ -43,9 +43,9 @@ PrintArray(arr);
  double imax = 0;
     
     for (int i = 0; i < arr.Length; i++) {
-        if (arr[i] > arr[imax])
-            imax = i;
-        if (arr[i] < arr[imin])
+        if (arr[i] > imax) imax = arr[i];
+
+        if (arr[i] < imin) imin = arr[i];
             imin = i;
     }
     Console.WriteLine("min : array[" + imin + "] = " + arr[imin]);
